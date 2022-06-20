@@ -5,6 +5,7 @@
 
 #### Bluccino Sweet Spots
 
+* Bluccino is a messaging framework for event driven applications
 * Bluccino is a rapid prototyping platform for Bluetooth BLE and Mesh networking applications
 * Bluccino app code closes-up the essential (event driven) message flow by super-super simple code while blurring out all unessential details
 * Bluccino is a simple and elegant language independent unit testing framework (mocking platform)
